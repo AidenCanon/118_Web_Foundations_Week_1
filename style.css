@@ -4,9 +4,24 @@ body{
     background: #f4f7f9;
     font-family: arial, sans-serif;
 }
+/*Changing the color of the navigation links*/
+nav{
+    color: #0d0d0d;
+}
 /*Changing the color of headings*/
 h1, h2, h3{
     color:#1d0a89
+}
+/* Section styles for padding, margin, background color, and border radius */
+.section{
+    padding: 20px;
+    margin: 20px;
+    background-color: #e2e8f0;
+    border-radius: 5px;
+}
+/*Changing the color of the h2 headings in sections*/
+.section h2{
+    color: #0e0445;
 }
 /*Changing the text size in paragraphs*/
 p{
